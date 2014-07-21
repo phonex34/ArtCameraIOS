@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>83A9E69F-C18B-4398-8839-82D0E6BCF62B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CoreImageTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BCE34A99-3CA2-4CE1-AA44-515C53E3DDA8</key>
+		<string>master</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CoreImageTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BCE34A99-3CA2-4CE1-AA44-515C53E3DDA8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>master</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BCE34A99-3CA2-4CE1-AA44-515C53E3DDA8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BCE34A99-3CA2-4CE1-AA44-515C53E3DDA8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CoreImageTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
